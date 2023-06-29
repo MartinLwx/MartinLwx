@@ -3,7 +3,7 @@
 <!--
 **MartinLwx/MartinLwx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi~ I'm Martin
+
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=MartinLwx&show_icons=true&theme=gruvbox" />
+</a>
+<a height="170px" href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLwx&layout=compact&langs_count=8&theme=gruvbox" />
+</a>
+</div>
