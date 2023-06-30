@@ -22,6 +22,6 @@ Hi~ I'm Martin
   <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api?username=MartinLwx&show_icons=true&theme=gruvbox" />
 </a>
 <a height="170px" href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLwx&layout=compact&langs_count=8&theme=gruvbox" />
+  <img height="170px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MartinLwx&layout=compact&langs_count=8&theme=gruvbox&size_weight=0.5&count_weight=0.5" />
 </a>
 </div>
