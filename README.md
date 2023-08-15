@@ -15,7 +15,7 @@
 - ⚡ Fun fact: ...
 -->
 
-Hi~ I'm Martin
+Hi~ I'm Martin Lin
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
