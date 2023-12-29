@@ -16,6 +16,7 @@
 -->
 
 Hi~ I'm Martin Lin
+- 🧐 I'm interested in AI/Programming Languages/Program Analysis/Compilers.
 
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats">
